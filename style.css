@@ -1,0 +1,41 @@
+h1{
+    font-size: .5in;
+    text-align: center;
+    background: red; 
+    background: -webkit-linear-gradient(left, orange , yellow, green, cyan, blue, violet); 
+    background: -o-linear-gradient(right, orange, yellow, green, cyan, blue, violet); 
+    background: -moz-linear-gradient(right, orange, yellow, green, cyan, blue, violet); 
+    background: linear-gradient(to right, orange , yellow, green, cyan, blue, violet);
+    color: rgb(255, 255, 255);
+}
+#Blogging{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: .3in;
+}
+
+body{
+    background: rgb(29, 248, 0);
+    text-align: center;
+}
+#myDevLife{
+    font-size: .5in;
+    text-align: center;
+}
+a{
+    padding: .2in
+}
+img{
+    width: 5.5in;
+    height: 6in;
+}
+
+#navBar{
+    outline: 1px solid black;
+}
+#email, #phone, #address{
+    text-align: center;
+}
+#FlavorTown{
+    background-image: url("IntroToFlavorTown.gif");
+}
