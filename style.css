@@ -39,3 +39,11 @@ img{
 #FlavorTown{
     background-image: url("IntroToFlavorTown.gif");
 }
+#myList{
+    text-align: left;
+    font-size: .3in
+}
+#preList{
+    font-size: .5in;
+    
+}
